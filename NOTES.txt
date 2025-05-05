@@ -1,0 +1,21 @@
+1st practical me sirf panda use huva he
+
+
+
+2nd me panda aur numpy use huva he
+For missing values in dataframe use "np.nan"
+data frame mhane banavno he
+
+
+
+
+3rd me sirf eman, median, min, max, std nikalna he
+
+
+
+4th is boston Housing NAKO KARU BORE HE LENDI HE
+
+
+
+5th is also same graph banavno he
+
